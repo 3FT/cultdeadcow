@@ -15,6 +15,15 @@ _______________________________________________________________________________
                         -cDc- CULT OF THE DEAD COW -cDc-
 _______________________________________________________________________________
 
+FAIRY SPELLS
+
+LEVEL 0
+
+Spell Name : Lil'Kim
+Translation : blessings
+Spell Type : THE BANQUET
+Area of Ef. : Twitter
+ I'm the B-A-D-D-E-S-T
 
 PRIEST SPELLS
 
